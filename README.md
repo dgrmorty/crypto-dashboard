@@ -23,8 +23,7 @@
    ```bash
    git clone https://github.com/ваш-username/crypto-dashboard.git
    cd crypto-dashboard
-
-
+   
 2. **Установите зависимости для сервера**
    
    ```bash
